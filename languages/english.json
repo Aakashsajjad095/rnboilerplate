@@ -1,0 +1,8 @@
+{
+    "translation": {
+        "WelcomeText": "Welcome to the Application",
+        "WorkOrder": "Work Order",
+        "VisitDate": "Visit Date",
+        "ClientPO": "Client PO"
+    }
+}
